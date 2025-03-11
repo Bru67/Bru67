@@ -14,7 +14,7 @@ Tenho 20 anos e sou apaixonada por tecnologia e estou sempre buscando aprender m
 - 🎨 HTML | CSS
 - 📂 File Management & Manipulação de Dados 
 
-### Aprendendo
+### Aprendendo 📚
 - Desenvolvimento Framework com React | Node.js | Sistemas HTTPS 
 
 ### Informações de Contato
