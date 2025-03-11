@@ -1,11 +1,22 @@
-- 👋 Hi, My name is Bruna, I'm from Brazil and I'm a studant of Information Technology;
-- 👀 I’m like to read while drinking a cup of coffe;
-- 🌱 I’m currently learning Java and JavaScript and a litlle bit of SQL;
-- 💞️ I’m looking to collaborate on ...
-- 📫 E-mail: brunascarnelossi4@gmail.com;
-- 😄 Pronouns: (She/Her).
+### Olá 👋
 
-<!---
-Bru67/Bru67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Estudante de Sistemas de Informação** <br>
+📍 Paraná, Brasil <br>
+🚀 Buscando oportunidades como **estagiária de TI, desenvolvedora júnior ou auxiliar em suporte e desenvolvimento de sistemas**
+
+### Sobre mim
+Tenho 20 anos e sou apaixonada por tecnologia e estou sempre buscando aprender mais sobre desenvolvimento de software e boas práticas. Tenho experiência com **manipulação de dados, triggers, integração com banco de dados e desenvolvimento de interfaces**, além de já ter trabalhado em projetos envolvendo **FileManager e gerenciamento de categorias/tarefas**. 💡
+
+### Tecnologias e Ferramentas
+- 💾 Banco de Dados (SQL, MySQL)
+- 🔧 Java | Python | JavaScript
+- 🛠️ Git & GitHub
+- 🎨 HTML | CSS
+- 📂 File Management & Manipulação de Dados 
+
+### Aprendendo
+- Desenvolvimento Framework com React | Node.js | Sistemas HTTPS 
+
+### Informações de Contato
+📫 **Email:** brunascarnelossi4@gmail.com <br>
+📎 **LinkedIn:** www.linkedin.com/in/brunacarnelossi <br>
